@@ -1,0 +1,23 @@
+<package>
+	<id>com.supermamon.oldpackage</id>
+	<name>NareWare</name>
+	<version>0.01a</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.8</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is a iOS rootkit for 14.8 and below.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
